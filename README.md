@@ -1,4 +1,4 @@
-# When RAG Disagrees: Detecting Latent Epistemic Conflict via Logit Interactions
+# When RAG Disagrees: Detecting Latent Epistemic Conflict via Logit Interactions 
 
 This repository contains the research artifacts, diagnostic benchmarks, and mechanistic analysis suite for our SIGIR 2026 submission. 
 
